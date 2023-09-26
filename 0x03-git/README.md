@@ -1,1 +1,1 @@
-This file is not empty
+This readme file for the 0x03-git directory 
